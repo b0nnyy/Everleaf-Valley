@@ -1,4 +1,4 @@
-## 🌍 English Version
+## 🌍 
 
 In this project, I implemented core gameplay mechanics in Unreal Engine 5:
 - Game menu  
