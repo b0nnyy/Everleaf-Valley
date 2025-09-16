@@ -3,7 +3,8 @@
 
 - 🖥️ **Game Menu**  
 - 📜 **Quest System**  
-- 🎒 **Item Pickup & Interaction**  
+- 🎒 **Item Pickup & Interaction**
+- 🎒 **MiniMap**  
 
 👉 [**Watch demo on YouTube**](https://www.youtube.com/watch?v=ZUzw4eaqORg)  
 
