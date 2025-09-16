@@ -7,7 +7,6 @@
 
 👉 [**Watch demo on YouTube**](https://www.youtube.com/watch?v=ZUzw4eaqORg)  
 
-[![Gameplay Demo](https://img.youtube.com/vi/TWOJ_ID/0.jpg)](https://www.youtube.com/watch?v=ZUzw4eaqORg)  
 
 ---
 
